@@ -7,7 +7,7 @@
   ## Table of Contents 
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Demo] (#demo)
+  - [Demo](#demo)
   - [License](#license)
   - [Contribute](#contribute)
   - [Tests](#tests)
@@ -23,7 +23,7 @@
   >none
  
   ## Demo
-  
+  ![giphy](https://media.giphy.com/media/gq8Bhl7TKhasE8EEeO/giphy.gif)
 
   ## License
   
