@@ -88,10 +88,10 @@ function generateMarkdown(data) {
   
   
   return `
-  ![badge](${badge}) 
   
   # ${data.project}
-  
+  ![badge](${badge}) 
+
   ## Description
   ${data.description}
 
@@ -106,11 +106,11 @@ function generateMarkdown(data) {
 
 
   ## Installation
-  > ${data.dependencies}
+  >${data.dependencies}
   
 
   ## Usage
-  ${data.usage}
+  >${data.usage}
  
 
   ## License
@@ -118,15 +118,15 @@ function generateMarkdown(data) {
   
 
   ## Contribute
-  ${data.contribution}
+  >${data.contribution}
 
 
   ## Tests
-  ${data.test}
+  >${data.test}
 
 
   ## Questions
-  If you have any questions please feel free to reach out to ${data.person} directly via email at ${data.email} or on Github at https://github.com/${data.name}. 
+  >If you have any questions please feel free to reach out to ${data.person} directly via email at ${data.email} or on Github at https://github.com/${data.name}. 
   
 
 `; 
