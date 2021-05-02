@@ -1,4 +1,5 @@
 
+
   
   # Readme Generator
   ![badge](https://img.shields.io/badge/License-MIT-blue) 
@@ -63,3 +64,6 @@
   >If you have any questions please feel free to reach out to Diamond Williams directly via email at williams.diamond@icloud.com or on Github at https://github.com/D-WILLI. 
   
 
+
+# README-Generator-
+>>>>>>> a050c2103f3b50389859e48d1e56e7b8d28d8351
